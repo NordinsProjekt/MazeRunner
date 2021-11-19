@@ -1,0 +1,14 @@
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.exe
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.deps.json
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.runtimeconfig.json
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.runtimeconfig.dev.json
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.dll
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\bin\Debug\netcoreapp3.1\MazeRunner.pdb
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.AssemblyInfo.cs
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.dll
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.pdb
+C:\Users\marku\source\repos\MazeRunner\MazeRunner\obj\Debug\netcoreapp3.1\MazeRunner.genruntimeconfig.cache
